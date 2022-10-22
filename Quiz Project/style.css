@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient(45deg, #ee9ca7 0%, #ffdde1 100%);
+}
+.col-md-7{
+    margin-top: 150px !important;
+background-color: #fff;
+padding: 20px;
+}
+h1 {
+    background-color: blue;
+}
